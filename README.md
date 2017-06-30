@@ -1,0 +1,2 @@
+# fractal
+Python fractal generator.
